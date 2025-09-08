@@ -104,4 +104,5 @@ display_plot("Strip Plot", strip_plot)
 display_plot("Swarm Plot", swarm_plot)
 display_plot("KDE Plot", kde_plot)
 
+
 st.write("All Seaborn plots for the Tips dataset have been generated")
